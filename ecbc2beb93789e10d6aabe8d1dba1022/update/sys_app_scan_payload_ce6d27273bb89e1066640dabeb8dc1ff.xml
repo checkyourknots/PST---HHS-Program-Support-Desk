@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app_scan_payload">
+    <sys_app_scan_payload action="INSERT_OR_UPDATE">
+        <payload_hash>d73e152bf8b24dccd5eb57ba38fbb6e79d14f92e698c52e9de7706d31acc9fc4</payload_hash>
+        <referenced_table>sys_app</referenced_table>
+        <scan_instance>90bce7eb38789e10f218163e451698aa</scan_instance>
+        <scan_source>scan</scan_source>
+        <serialized_record><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_screen_type"><sys_ux_screen_type action="INSERT_OR_UPDATE"><description/><name>Home</name><sys_class_name>sys_ux_screen_type</sys_class_name><sys_created_by/><sys_created_on/><sys_id>!!!sys_id_1417!!!</sys_id><sys_mod_count/><sys_name/><sys_package display_value="">!!!app_sys_id!!!</sys_package><sys_policy/><sys_scope display_value="">!!!app_sys_id!!!</sys_scope><sys_update_name/><sys_updated_by/><sys_updated_on/></sys_ux_screen_type></record_update>]]></serialized_record>
+        <source_class>sys_ux_screen_type</source_class>
+        <source_id>29b99baff5349e10c166f25e7c45cead</source_id>
+        <source_name>Home</source_name>
+        <source_sys_id>a1b99baf98349e108b3e7cc9512a61c4</source_sys_id>
+        <sys_class_name>sys_app_scan_payload</sys_class_name>
+        <sys_created_by>john.spirko</sys_created_by>
+        <sys_created_on>2024-09-28 21:41:54</sys_created_on>
+        <sys_id>ce6d27273bb89e1066640dabeb8dc1ff</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sys_ux_screen_type</sys_name>
+        <sys_package display_value="Pub Sector - HHS Program Support Desk" source="x_snc_pub_sector_3">ecbc2beb93789e10d6aabe8d1dba1022</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Pub Sector - HHS Program Support Desk">ecbc2beb93789e10d6aabe8d1dba1022</sys_scope>
+        <sys_update_name>sys_app_scan_payload_ce6d27273bb89e1066640dabeb8dc1ff</sys_update_name>
+        <sys_updated_by>john.spirko</sys_updated_by>
+        <sys_updated_on>2024-09-28 21:41:54</sys_updated_on>
+        <version>1</version>
+    </sys_app_scan_payload>
+</record_update>

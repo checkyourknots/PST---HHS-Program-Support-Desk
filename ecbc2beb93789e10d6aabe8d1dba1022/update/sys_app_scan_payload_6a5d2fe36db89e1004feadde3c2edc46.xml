@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app_scan_payload">
+    <sys_app_scan_payload action="INSERT_OR_UPDATE">
+        <payload_hash>5b0e48851f030590887aabf32f204cdd16eeb44a70c46e0e476a0c947af73975</payload_hash>
+        <referenced_table>sys_app</referenced_table>
+        <scan_instance>90bce7eb38789e10f218163e451698aa</scan_instance>
+        <scan_source>scan</scan_source>
+        <serialized_record><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route"><sys_ux_app_route action="INSERT_OR_UPDATE"><app_config/><description/><extension_point/><fields>uuid</fields><icon/><name>KPI Details</name><optional_parameters>scoreDate,breakdowns,domain,aggregate,startDate,endDate</optional_parameters><order>0</order><parent_macroponent display_value="Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent><parent_macroponent_composition_element_id/><route_type>ac_kpi_details</route_type><screen_type display_value="">!!!sys_id_1348!!!</screen_type><sys_class_name>sys_ux_app_route</sys_class_name><sys_created_by/><sys_created_on/><sys_id>!!!sys_id_1349!!!</sys_id><sys_mod_count/><sys_name/><sys_package display_value="">!!!app_sys_id!!!</sys_package><sys_policy/><sys_scope display_value="">!!!app_sys_id!!!</sys_scope><sys_update_name/><sys_updated_by/><sys_updated_on/></sys_ux_app_route></record_update>]]></serialized_record>
+        <source_class>sys_ux_app_route</source_class>
+        <source_id>29b99baff5349e10c166f25e7c45cead</source_id>
+        <source_name>KPI Details</source_name>
+        <source_sys_id>adb99bafa2349e101daa08c205a7c9e4</source_sys_id>
+        <sys_class_name>sys_app_scan_payload</sys_class_name>
+        <sys_created_by>john.spirko</sys_created_by>
+        <sys_created_on>2024-09-28 21:41:40</sys_created_on>
+        <sys_id>6a5d2fe36db89e1004feadde3c2edc46</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sys_ux_app_route</sys_name>
+        <sys_package display_value="Pub Sector - HHS Program Support Desk" source="x_snc_pub_sector_3">ecbc2beb93789e10d6aabe8d1dba1022</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Pub Sector - HHS Program Support Desk">ecbc2beb93789e10d6aabe8d1dba1022</sys_scope>
+        <sys_update_name>sys_app_scan_payload_6a5d2fe36db89e1004feadde3c2edc46</sys_update_name>
+        <sys_updated_by>john.spirko</sys_updated_by>
+        <sys_updated_on>2024-09-28 21:41:40</sys_updated_on>
+        <version>1</version>
+    </sys_app_scan_payload>
+</record_update>
